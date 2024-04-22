@@ -8,7 +8,7 @@ Projeto construído durante o curso PROPROFISSÃO do Instituto PROA
 
 ## Acesso
 
-[Clique aqui para acessar! :)](https://madusales.github.io/Quote-Generator/)
+[Clique aqui para acessar! :)](https://madusales.github.io/Message-Field-Page/)
 
 ## Tecnologias
 - HTML
