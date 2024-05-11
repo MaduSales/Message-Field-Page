@@ -19,7 +19,7 @@ Projeto construído durante o curso PROPROFISSÃO do Instituto PROA
 - JavaScript
 
 ## Contato
-[(LinkedIn)](www.linkedin.com/in/maria-eduarda-de-sales-78a04221b)
-E-mail: maria.esmiranda08@gmail.com
+[LinkedIn](https://www.linkedin.com/in/mariaeduardasales)
+E-mail: maria.mirandadev@gmail.com
 
 
